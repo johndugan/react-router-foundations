@@ -1,0 +1,11 @@
+a, a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+.active-nav-link {
+    text-decoration: underline;
+}
+.active-link {
+    color: green;
+}
